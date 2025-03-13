@@ -19,4 +19,8 @@ public class Git {
 	public void HR() {
 		System.out.println("This is in HR branch");
 	}
+	
+	public void HZ () {
+		System.out.println("This is in HZ branch");
+	}
 }
