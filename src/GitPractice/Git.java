@@ -26,5 +26,6 @@ public class Git {
 	
 	public void Mahsaye() {
 		System.out.println("Tommorow is Mahsaye's birthday");
+		System.out.println("We need to make a big party for my sweetie");
 	}
 }
