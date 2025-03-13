@@ -23,4 +23,8 @@ public class Git {
 	public void HZ () {
 		System.out.println("This is in HZ branch");
 	}
+	
+	public void Mahsaye() {
+		System.out.println("Tommorow is Mahsaye's birthday");
+	}
 }
