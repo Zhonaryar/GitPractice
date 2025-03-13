@@ -8,4 +8,7 @@ public class Git {
 		System.out.println("This is in local repo");
 	}
 
+	public void Main() {
+		System.out.println("This method is in Main Branch of local repo");
+	}
 }
