@@ -16,4 +16,7 @@ public class Git {
 	System.out.println("This method is in Main Branch of remote repo");
 	}
 	
+	public void HR() {
+		System.out.println("This is in HR branch");
+	}
 }
